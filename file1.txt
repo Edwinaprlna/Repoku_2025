@@ -1,1 +1,2 @@
 Isi untuk file1, setelah melakukan perintah no 7 (hasil perubahan)
+Perubahan dari branch myBranch1
